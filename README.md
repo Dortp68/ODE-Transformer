@@ -41,7 +41,9 @@ $\frac{𝑑ℎ(𝑡)}{𝑑𝑡} = 𝑓(ℎ(𝑡),𝑡, 𝜃)$
 * [ETN-ODE](https://github.com/PengleiGao/ETN-ODE)
 * [EgPDE-Net](https://github.com/PengleiGao/EgPDE-net)
 
+### RMSE
 ![RMSE](https://github.com/Dortp68/ODE-Transformer/blob/main/images/RMSE.png)
+### MAE
 ![MAE](https://github.com/Dortp68/ODE-Transformer/blob/main/images/MAE.png)
 
 
