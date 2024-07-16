@@ -40,4 +40,11 @@ $\frac{𝑑ℎ(𝑡)}{𝑑𝑡} = 𝑓(ℎ(𝑡),𝑡, 𝜃)$
 * [Latent ODE-RNN](https://github.com/ashysheya/ODE-RNN)
 * [ETN-ODE](https://github.com/PengleiGao/ETN-ODE)
 * [EgPDE-Net](https://github.com/PengleiGao/EgPDE-net)
-
+### Сравнение результатов на датасете SML2010
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/sml2010.png)
+### Сравнение результатов на датасете ETTH1
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/ETTH1.png)
+### Сравнение результатов на датасете ETTH2
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/ETTH2.png)
+### Сравнение результатов на датасете Electricity
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/Electricity1.png)
