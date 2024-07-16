@@ -48,3 +48,8 @@ $\frac{𝑑ℎ(𝑡)}{𝑑𝑡} = 𝑓(ℎ(𝑡),𝑡, 𝜃)$
 ![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/ETTH2.png)
 ### Сравнение результатов на датасете Electricity
 ![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/Electricity1.png)
+### Результат предсказания моделей на шаге 1.5
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/timestep_1.5.png)
+### Результат предсказания моделей на шаге 2.5
+![](https://github.com/Dortp68/ODE-Transformer/blob/main/images/timestep_2.5.png)
+
